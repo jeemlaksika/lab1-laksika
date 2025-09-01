@@ -1,0 +1,24 @@
+{
+  "name": "lab1-laksika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeemlaksika/lab1-laksika.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeemlaksika/lab1-laksika/issues"
+  },
+  "homepage": "https://github.com/jeemlaksika/lab1-laksika#readme",
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.1"
+  }
+}
